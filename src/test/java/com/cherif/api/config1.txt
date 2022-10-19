@@ -1,0 +1,8 @@
+
+========= Fichier de configuration de l'accès à notre base de donnée H2 ========================
+
+1- Dans un premier temps je laisse la configuration par défaut
+
+2- ajouter uniquement la propriété pour activer la console de visualisation de la base de données
+
+3-  fournir la structure de la base de données et des données
